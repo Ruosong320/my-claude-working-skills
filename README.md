@@ -7,6 +7,12 @@
 
 每个子目录是一个 skill，入口为 `SKILL.md`。
 
+| 阶段 | Skill |
+|---|---|
+| 流程 | `initer` `mission-spliter` `abstract-first-coder` `scoped-code-change` `recoder` `understand-first` `real-solution-plan` `analyze-only` |
+| 设计 | `design-five-senses` `landing-page-design` `taste-skill` `design-to-motion` |
+| 交付 | `ship-it-for-real` `ship-solution` |
+
 ## 优化流程
 
 由 darwin-skill 驱动：基线评估 → 单维度改进 → 独立 judge 配对盲评 → 多数决 keep/revert。
